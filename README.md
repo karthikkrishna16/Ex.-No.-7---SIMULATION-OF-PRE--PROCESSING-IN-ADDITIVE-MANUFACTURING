@@ -50,8 +50,8 @@
 ![image](https://github.com/Dharsanrameshkumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/633a13e4-45a2-4a60-b4d2-021452ef4ab0)
 
 
-### Name:MUKESH KUMAR S
-### Register Number:212223240099
+### Name:TH KARTHIK KRISHNA
+### Register Number:212223240067
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
